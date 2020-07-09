@@ -1,3 +1,4 @@
+
 body{
     background-color:rgba(218, 217, 216, 0.815)
 }
@@ -21,13 +22,6 @@ p{
     text-align: center;
 }
 
-.box{
-    border: solid whitesmoke;
-    border-width: 5px;
-    width: 500px;
-    margin: 50px;
-    padding: 50px;
-}
 
 .nav{
     background-color: rgb(212, 161, 241);   
@@ -42,4 +36,11 @@ p{
 .nav a:hover{
     background-color: rgb(131, 76, 128);
     color: whitesmoke;
+}
+.box{
+    border: solid whitesmoke;
+    border-width: 5px;
+    width: 500px;
+    margin: 50px;
+    padding: 50px;
 }
